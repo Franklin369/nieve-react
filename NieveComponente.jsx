@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { NieveEffect } from "../../hooks/Nieve1";
+import { NieveEffect } from "../../hooks/NieveEffect";
 import { useRef } from "react";
 export function NieveComponente() {
   const canvasRef = useRef(null);
